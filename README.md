@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yaniv</h1>
+<h1 align="center">Hi 👋, I'm Vinay S</h1>
 <h3 align="center">A passionate AIML student & developer </h3>
 
 ---
