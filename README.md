@@ -18,8 +18,8 @@
   </a>
   <br>
   <a href="https://www.kaggle.com/vinay1110" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-black?logo=kaggle&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
 </p>
 
 ---
