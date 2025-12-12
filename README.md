@@ -16,6 +16,10 @@
   <a href="https://github.com/yaniv-11" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
   </a>
+  <br>
+  <a href="https://www.kaggle.com/vinay1110" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-black?logo=kaggle&logoColor=white" />
+  </a>
 </p>
 
 ---
