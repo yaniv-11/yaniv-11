@@ -13,12 +13,11 @@
   <a href="https://leetcode.com/u/_yaniv_11/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white" />
   </a><br>
-  <a href="https://github.com/yaniv-11" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
-  </a>
-  <br>
   <a href="https://www.kaggle.com/vinay1110" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+</a><br>
+  <a href="https://huggingface.co/Vinay-11" target="_blank">
+    <img src="https://img.shields.io/badge/Hugging Face-yellow?logo=huggingface&logoColor=white" />
 </a>
 </p>
 
