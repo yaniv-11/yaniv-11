@@ -9,15 +9,18 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/vinay-s-354b7b2b2/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin">
-  </a><br>
+  </a>
   <a href="https://leetcode.com/u/_yaniv_11/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white" />
-  </a><br>
+    <img src="https://skillicons.dev/icons?i=leetcode">
+  </a>
   <a href="https://www.kaggle.com/vinay1110" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
-</a><br>
+    <img src="https://skillicons.dev/icons?i=kaggle">
+</a>
   <a href="https://huggingface.co/Vinay-11" target="_blank">
-    <img src="https://img.shields.io/badge/Hugging Face-yellow?logo=huggingface&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=huggingface">
+</a>
+  <a href="https://share.streamlit.io/user/yaniv-11" target="_blank">
+    <img src="https://skillicons.dev/icons?i=streamlit">
 </a>
 </p>
 
