@@ -8,7 +8,7 @@
 ### 🚀 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/vinay-s-354b7b2b2/" target="_blank">
-    [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+    <img src="https://skillicons.dev/icons?i=linkedin">
   </a><br>
   <a href="https://leetcode.com/u/_yaniv_11/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white" />
