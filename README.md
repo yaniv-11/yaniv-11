@@ -22,7 +22,7 @@ I'm a passionate AI/ML student and developer focused on building intelligent sys
 - 🌱 Continuously learning advanced deep learning architectures
 - 💡 Passionate about computer vision and neural networks
 - 🎯 Goal: Contributing to impactful AI solutions
-- 📫 Reach me: **[Your Email]**
+- 📫 Reach me: **vinays.6360@gmail.com**
 
 ---
 
@@ -56,6 +56,6 @@ I'm a passionate AI/ML student and developer focused on building intelligent sys
 ---
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=yaniv-11&color=blueviolet&style=for-the-badge)
+
 
 </div>
